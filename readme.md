@@ -31,5 +31,5 @@ The following tools were used in this project:
 
 ## Communication
 
-In addtition to presenting final Project Slides to the stakeholders, all work (including the slides) can be found here: https://github.com/georgepappy/BusinessFundamentals, except for the Tableau workbook, which can be found here: https://public.tableau.com/app/profile/george.pappy/viz/Project_Data_Exploration_16332343098010/Dashboard.
+In addtition to presenting final Project Slides to the stakeholders, all work (including the slides) can be found here: https://github.com/georgepappy/BusinessFundamentals/tree/main/FINAL_PROJECT, except for the Tableau workbook, which can be found here: https://public.tableau.com/app/profile/george.pappy/viz/Project_Data_Exploration_16332343098010/Dashboard.
 
